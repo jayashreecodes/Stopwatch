@@ -1,0 +1,49 @@
+body
+{
+  margin:0%;
+  padding:0%;
+  background-color: rgb(216, 216, 57);
+}
+.header
+{
+  color:white;
+  text-align: center;
+  font-size: 50px;
+}
+.section{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+}
+.footer span
+{
+   align-items: center;
+   color:azure;
+   font-size: 3rem;
+   margin-left: 45%;
+}
+button{
+    margin-left: 30%;
+    padding-top:15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 5%;
+    background-color: transparent;
+    border:solid 2px white;
+    color:white;
+    font-size: 20px;
+}
+button:hover{
+    cursor: pointer;
+    background-color:white;
+    color:yellow;
+}
+#stopButton
+{
+   margin-left: 80px;
+}
+#resetButton
+{
+   margin-left: 85px;
+}
